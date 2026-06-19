@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment + secrets — NEVER commit these
+.env
+*.env
+
+# OS / editor noise
+.DS_Store
